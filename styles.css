@@ -1,0 +1,36 @@
+body{
+    background-color:lightgreen; 
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin: 0;
+}
+.under{
+    text-decoration: underline;
+}
+.top{
+    background-color: powderblue;
+    position: relative;
+    padding-top: 100px;
+}
+.middle{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.bottom{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.btc{
+    position:absolute;
+    left: 300px;
+    bottom:300px;
+}
+.topc{
+    position: absolute;
+    right:300px;
+    top:50px;
+}
